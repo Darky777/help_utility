@@ -22,4 +22,4 @@
 
 `v` - Verbose, то есть сообщать обо всех действиях, которые совершает tar.
 
-`unrar e -r myfile.rar` - Собственно unrar
+`unrar x-r myfile.rar` - Собственно unrar
