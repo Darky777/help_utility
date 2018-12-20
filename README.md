@@ -6,10 +6,9 @@
 
 # Список утилит
 `wc -c file` - подсчет символов в file.
-objdump file.o - информация об объектном файле.
-Ключ -d=--disassemble
 
-
+`objdump file.o`- информация об объектном файле.
+Ключ `-d=--disassemble`
 
 `tar -xvzf community_images.tar.gz` - разархивиовать tar.gz
 
