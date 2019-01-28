@@ -1,3 +1,3 @@
-#Comands git
+# Comands git
 
 `git stash push [--] [<pathspec>...]` - stash individual file
