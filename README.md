@@ -29,6 +29,7 @@
 
 `ldconfig -p | grep libpng` - Узнать, где, например, находится библиотека libpng
 
+`unzip file.zip -d destination_folder` - разархивировать zip
 
 `uname` — консольная UNIX‐утилита, выводящая информацию о системе. 
 # Ключи компилятора g++
