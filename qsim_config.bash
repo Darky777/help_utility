@@ -7,7 +7,7 @@ qsim_config_f () {
         echo "freetype-2.4.7 for Questasim added"
         echo "LD_LIBRARY_PATH = $LD_LIBRARY_PATH"
     else
-        local removing_string=${LD_LIBRARY_PATH}
+        local removing_string=${path_to_freetype}
         export LD_LIBRARY_PATH=${LD_LIBRARY_PATH#"$removing_string"}
         echo "freetype-2.4.7 for Questasim removed"
         echo "LD_LIBRARY_PATH = $LD_LIBRARY_PATH"
