@@ -40,3 +40,10 @@
 `-c` - компилировать но не линковать
 
 `git checkout COMMIT_ID -- my-file.txt` - если я вдруг захочу вытащить определенный файл из определенного коммита
+
+# MAKEFILE
+
+`$@` is the name of the file being generated.
+
+`$<` the first prerequisite (usually the source file)
+
