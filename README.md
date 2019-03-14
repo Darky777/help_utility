@@ -34,6 +34,11 @@
 `unzip file.zip -d destination_folder` - разархивировать zip
 
 `uname` — консольная UNIX‐утилита, выводящая информацию о системе. 
+
+`lsusb` - список подключенных по USB
+
+`sudo minicom -D /dev/ttyUSB1` - TTL to UART
+
 # Ключи компилятора g++
 `-Wall -Wextra` - вывод обо всех предупреждениях, как `Verbose`. `Wextra` детальнее.
 
