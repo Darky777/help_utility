@@ -45,7 +45,7 @@
 
 `tree -d -L 3` List directories only. Descend only level directories deep.
 
-`find . -iname design_1_wrapper.v | xargs rm` - найти и уничтожить
+`find . -iname file_name | xargs rm` - найти и уничтожить
 
 # Ключи компилятора g++
 `-Wall -Wextra` - вывод обо всех предупреждениях, как `Verbose`. `Wextra` детальнее.
