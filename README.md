@@ -39,6 +39,12 @@
 
 `sudo minicom -D /dev/ttyUSB1` - TTL to UART
 
+`tree -a` All files are listed.
+
+`tree -d` List directories only.
+
+`tree -d -L 3` List directories only. Descend only level directories deep.
+
 # Ключи компилятора g++
 `-Wall -Wextra` - вывод обо всех предупреждениях, как `Verbose`. `Wextra` детальнее.
 
