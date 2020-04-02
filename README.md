@@ -60,3 +60,5 @@
 
 `$<` the first prerequisite (usually the source file)
 
+# Полезные статьи
+https://forums.xilinx.com/t5/Design-and-Debug-Techniques-Blog/Using-SystemVerilog-interfaces-to-connect-logic-in-Vivado/ba-p/942512
