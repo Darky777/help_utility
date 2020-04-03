@@ -62,3 +62,4 @@
 
 # Полезные статьи
 https://forums.xilinx.com/t5/Design-and-Debug-Techniques-Blog/Using-SystemVerilog-interfaces-to-connect-logic-in-Vivado/ba-p/942512
+https://sutherland-hdl.com/papers/2006-SNUG-Boston_standard_gotchas_presentation.pdf
